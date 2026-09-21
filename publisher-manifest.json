@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d6d35c3753d301233a8af33d",
+  "owner": "mbhpfdkpa",
+  "repo": "page-3635f99c2b139fc3b896a737",
+  "title": "232云(233yun)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3635f99c2b139fc3b896a737",
+      "a": "232云(233yun)",
+      "b": "机场官网线路发布页",
+      "entity": "232云(233yun)",
+      "brand": "232云(233yun)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "13b86ecd2c25d65e518d6eb4ad2be88ce90ec74383a88e7e510c90eb0c174e25",
+      "content": {
+        "primary_entity": "232云(233yun)",
+        "keyword1": "232云(233yun)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，路由器端可参考通用订阅配置。",
+          "AI_CLIENTS_TITLE": "各设备客户端选择",
+          "AI_CLOSING_TEXT": "选好设备与套餐，导入订阅即可连接。",
+          "AI_CLOSING_TITLE": "即刻开始加速",
+          "AI_DESCRIPTION": "，提供三档海外加速套餐，覆盖基础到团队场景。基础版每月 100GB 流量、支持 3 台设备，适合手机与电脑日常使用；旗舰版每月 300GB、支持 5 台设备，含 IPLC 专线游戏加速优化；团队版每月 1000GB、支持 20 台设备，支持企业定制路由。年付更省，按年付基础版 150 元、旗舰版 350 元、团队版 850 元。选择客户端并按文档导入订阅后即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月 15 元，按年付 150 元；旗舰版每月 35 元，按年付 350 元；团队版每月 85 元，按年付 850 元。年付省两个月费用，适合长期使用的用户。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。手机、电脑、平板或路由器均占用设备数，家庭多设备建议旗舰版起步。",
+          "AI_FAQ_ANSWER_3": "订阅导入方式因客户端而异，常见步骤是获取订阅地址后在客户端内新建配置并粘贴。具体操作可查看对应客户端的配置文档。",
+          "AI_FAQ_ANSWER_4": "旗舰版含 IPLC 专线游戏加速优化，适合对延迟敏感的场景；团队版提供 VIP 专属高带宽节点，适合多人共享或企业办公。",
+          "AI_FAQ_ANSWER_5": "每月流量超出后，可选择升级套餐或等待下个自然月重置。基础版 100GB、旗舰版 300GB、团队版 1000GB，根据实际用量选档即可。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "各套餐价格和计费方式是怎样的？",
+          "AI_FAQ_QUESTION_2": "不同套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "如何在不同客户端导入订阅？",
+          "AI_FAQ_QUESTION_4": "游戏加速和多人共享该选哪个套餐？",
+          "AI_FAQ_QUESTION_5": "流量用完后怎么处理？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度选择合适套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月常用设备数量和影音游戏时长估算。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台同时在线，多设备家庭或团队优先考虑高设备数套餐。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 高带宽节点，按延迟与共享需求选择。",
+          "AI_FEATURE_TITLE_1": "流量按月选档",
+          "AI_FEATURE_TITLE_2": "设备数量对应",
+          "AI_FEATURE_TITLE_3": "线路类型区分",
+          "AI_GUIDE_INTRO": "三步完成设备适配与订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "232云(233yun)提供三档海外加速套餐，基础版、旗舰版与团队版覆盖不同流量和设备需求。旗舰版含 IPLC 专线游戏加速优化，团队版支持企业定制路由，年付更省。选择客户端并按文档导入订阅即可连接。",
+          "AI_HERO_SUBTITLE": "三档海外加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "年付省两个月费用",
+          "AI_PLANS_INTRO": "基础版 100GB／3 台设备，旗舰版 300GB／5 台设备，团队版 1000GB／20 台设备。年付分别 150 元、350 元、850 元。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按每月流量、同时在线设备数和线路需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认设备系统是否在客户端支持范围内，路由器端参考通用订阅配置说明。",
+          "AI_STEP_TEXT_3": "获取订阅地址后，按对应客户端文档新建配置并导入，即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "232云海外加速套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mxd5lc.cn",
+    "host": "mxd5lc.cn"
+  },
+  "file_hashes": {
+    "index.html": "05a4a9d287d4ef806119be2267da2ba00027992f9f896a4e2eecb421acdcaa0f",
+    "sitemap.xml": "5e3fead08f206bb126c0a66b6a2b4d8be1c7e58a3ddb6e0a515a0fc84c3d94a7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f5e85337c6eedee67349c230634e2bd72e5b1baa6e85266ad59b34e07c05eaeb",
+    "robots.txt": "9c36baf2c4a64a5347c858a303fbceb63eafdb9cff7e7b87168643719c093a6c",
+    "59a3f984c4216c5d7edd83534c219b14.txt": "61010f4837af13427a0ed6f5d544d1e37dd179d4e65e08e6937536687eb82900"
+  },
+  "revision": "53c2d71070fa0fdb52c6ab549d2337086fd7883d3af8a734d63566f88484e557"
+}
